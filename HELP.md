@@ -1,0 +1,19 @@
+# Getting Started
+
+### Reference Documentation
+For further reference, please consider the following sections:
+
+* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
+* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.2.5.RELEASE/maven-plugin/)
+
+* feature COL-0002
+
+
+* feature COL-0005
+
+* feature COL-0004
+
+* feature COL-0007
+
+* feature COL-0006
+    - commit count : 2
