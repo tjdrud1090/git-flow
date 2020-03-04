@@ -13,5 +13,7 @@ For further reference, please consider the following sections:
 
 * feature COL-0004
 
+* feature COL-0007
+
 * feature COL-0006
     - commit count : 2
