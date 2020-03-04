@@ -8,4 +8,7 @@ For further reference, please consider the following sections:
 
 * feature COL-0002
 
+
 * feature COL-0005
+
+* feature COL-0004
