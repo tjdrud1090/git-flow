@@ -3,3 +3,5 @@ git-flow simulation
 
 
 test
+
+test config
