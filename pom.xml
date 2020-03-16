@@ -11,7 +11,7 @@
     <groupId>com.gitflow.example</groupId>
     <artifactId>gitflow</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>gitflow</name>
+    <name>git-flow</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
